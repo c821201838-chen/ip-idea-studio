@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789391561380,
+      "tag": "0000_nosy_maggott",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789471913822,
+      "tag": "0001_blushing_masked_marvel",
+      "breakpoints": true
+    }
+  ]
+}
