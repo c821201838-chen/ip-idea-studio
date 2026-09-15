@@ -1,5 +1,5 @@
 {
-  "name": "site-creator-vinext-starter",
+  "name": "ip-idea-studio",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -64,5 +64,6 @@
     "miniflare": {
       "sharp": "0.35.4"
     }
-  }
+  },
+  "license": "MIT"
 }

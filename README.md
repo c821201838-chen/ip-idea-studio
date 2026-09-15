@@ -72,3 +72,7 @@ node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1
 
 需求来自用户提供的 [小工具项目说明](https://chatgpt.com/share/6aa9289b-b8fc-83ec-9534-66c6df25a9a7)。
 接口依据 [OpenAI 结构化输出文档](https://developers.openai.com/api/docs/guides/structured-outputs) 与 [GPT-5.4 mini 模型文档](https://developers.openai.com/api/docs/models/gpt-5.4-mini)。
+
+## 开源许可
+
+本项目原创部分采用 [MIT 许可证](LICENSE)。你可以在保留版权和许可声明的条件下使用、修改、分发和商用。第三方组件与依赖保留各自的许可证及版权声明；随附声明见 `vendor/` 与 `build/`。
